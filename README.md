@@ -1,7 +1,7 @@
-#Introduction:
+## Introduction:
 This COBOL program takes an input number from the user and checks if it is a prime number or not. A prime number is a number that is divisible only by 1 and itself.
 
-#Requirements:
+## Requirements:
 
 COBOL compiler installed on the system
 Input number from the user
